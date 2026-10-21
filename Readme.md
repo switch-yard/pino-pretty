@@ -423,3 +423,5 @@ Any PRs are welcomed!
 ## License
 
 MIT License
+
+This fork is tested through Switchyard's merge queue.
